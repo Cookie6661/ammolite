@@ -1,0 +1,9 @@
+{
+  "name": "Аммолит — Мир драгоценных камней",
+  "short_name": "Аммолит",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4eb",
+  "theme_color": "#102b23"
+}
